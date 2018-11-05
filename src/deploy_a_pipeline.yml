@@ -1,0 +1,6 @@
+---
+- hosts:
+  - okd
+  gather_facts: false
+  roles:
+    - deploying_a_pipeline

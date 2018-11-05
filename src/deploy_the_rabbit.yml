@@ -1,0 +1,7 @@
+---
+- hosts:
+  - okd
+  gather_facts: false
+  roles:
+    - create_ns
+    - deploying_the_rabbit

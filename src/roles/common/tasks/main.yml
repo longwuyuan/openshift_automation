@@ -1,0 +1,2 @@
+- name: OC Login as admin to set context
+  script: oc_login_as_admin.sh

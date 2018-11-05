@@ -1,0 +1,3 @@
+kubeconfig_file: admin.kubeconfig
+kubeconfig_context: default/127-0-0-1:8443/system:admin
+create_ns_name: rabbitmq

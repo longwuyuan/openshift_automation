@@ -1,0 +1,2 @@
+- name: Deploying rabbitmq statefulset
+  script: oc_process_template.sh
